@@ -83,10 +83,9 @@ PCU-FL/
 ├── noise_commit.py        # Discrete Gaussian noise commitments 
 ├── proof_utils.py         # Proof utilities 
 ├── metrics_logger.py      # Metrics and logging
-                           # Dataset (M. A. Ferrag, O. Friha, D. Hamouda, L. Maglaras and H. Janicke, "Edge-IIoTset: A New Comprehensive Realistic Cyber Security Dataset of IoT and IIoT Applications for Centralized and Federated Learning," in IEEE Access, vol. 10, pp. 40281-40306, 2022, doi: 10.1109/ACCESS.2022.3165809.
-)
+                           # Dataset - M. A. Ferrag, O. Friha, D. Hamouda, L. Maglaras and H. Janicke, "Edge-IIoTset: A New Comprehensive Realistic Cyber Security Dataset of IoT and IIoT Applications for Centralized and Federated Learning,"
+                           # IEEE Access, vol. 10, pp. 40281-40306, 2022, doi: 10.1109/ACCESS.2022.3165809.
 ```
-
 ## Reproducibility
 
 **Dataset:** Edge-IIoT anomaly detection dataset with 2,219 samples and 61 features. Uses the published split without resampling or rebalancing.
