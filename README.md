@@ -84,7 +84,6 @@ PCU-FL/
 ├── proof_utils.py         # Proof utilities 
 ├── metrics_logger.py      # Metrics and logging
                            # Dataset (M. A. Ferrag, O. Friha, D. Hamouda, L. Maglaras and H. Janicke, "Edge-IIoTset: A New Comprehensive Realistic Cyber Security Dataset of IoT and IIoT Applications for Centralized and Federated Learning," in IEEE Access, vol. 10, pp. 40281-40306, 2022, doi: 10.1109/ACCESS.2022.3165809.
-keywords: {Industrial Internet of Things;Sensors;Temperature sensors;Computer crime;Security;Protocols;Computer security;Cybersecurity applications;IoT datasets;deep learning;federated learning;edge {computing}},
 )
 ```
 
