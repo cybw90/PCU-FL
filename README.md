@@ -97,13 +97,6 @@ PCU-FL/
 - Up to M_t ≤ N clients participate each round
 - Local optimization: SGD (learning rate 0.01), batch size 32, one local epoch per round
 
-**Round Counts for Operating Points:**
-- Non-private: 50 rounds
-- ε=50: 30 rounds  
-- ε=10: 40 rounds
-- ε=1: 100 rounds
-- FP8 baseline: 75 rounds
-
 **Privacy Calibration:**
 - Client-level add/remove adjacency
 - Discrete Gaussian noise sampled in integer domain
