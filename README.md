@@ -2,7 +2,18 @@
 
 ## Overview
 
-PCU-FL is an implementation of privacy-preserving federated learning that combines **FP8 quantization** (E4M3/E5M2) with **discrete Gaussian noise** to achieve optimal trade-offs between privacy, communication efficiency, and model utility in cross-device federated learning scenarios.
+## Overview
+
+PCU-FL is a federated learning pipeline for IoT-enabled cyber-physical systems (CPS) that combines discrete Gaussian integer aggregation with trust budget gating under encoded domain differential privacy (DP). 
+
+The pipeline operates as follows: each client clips its update; the server encodes updates on a grid 1/α, forms an exact integer weighted sum, injects discrete Gaussian noise into the integer domain, and performs a single final decode via (γW_int)^(-1) to release a DP average. Noise is calibrated to the sensitivity of the normalized (averaged) function, explicitly accounting for clipping and rounding.
+
+Key features include:
+- Longitudinal trust budget gating mechanism with policy bound update tokens to control per-client participation and cumulative privacy spending across rounds
+- FP8 quantization (E4M3/E5M2) for wire compression, evaluated without homomorphic encryption
+- Discrete Gaussian DP in the encoded integer domain with trust-budget gating
+- Cryptographic components (ring-LWE encryption and zero-knowledge input validation) specified as blueprints for future work.
+
 
 ## Environment Setup
 
