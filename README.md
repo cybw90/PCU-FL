@@ -2,8 +2,6 @@
 
 ## Overview
 
-## Overview
-
 PCU-FL is a federated learning pipeline for IoT-enabled cyber-physical systems (CPS) that combines discrete Gaussian integer aggregation with trust budget gating under encoded domain differential privacy (DP). 
 
 The pipeline operates as follows: each client clips its update; the server encodes updates on a grid 1/α, forms an exact integer weighted sum, injects discrete Gaussian noise into the integer domain, and performs a single final decode via (γW_int)^(-1) to release a DP average. Noise is calibrated to the sensitivity of the normalized (averaged) function, explicitly accounting for clipping and rounding.
