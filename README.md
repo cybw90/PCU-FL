@@ -66,6 +66,9 @@ python main.py --epsilon 10 --rounds XXX
 
 # Strong privacy
 python main.py --epsilon 1 --rounds XXX
+
+# Mia_evaluation
+python main.py --epsilon 10000 --rounds XXX --evaluate-mia
 ```
 
 ## Project Structure
