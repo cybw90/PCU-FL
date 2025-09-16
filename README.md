@@ -10,8 +10,9 @@ Key features include:
 - Longitudinal trust budget gating mechanism with policy bound update tokens to control per-client participation and cumulative privacy spending across rounds
 - FP8 quantization (E4M3/E5M2) for wire compression, evaluated without homomorphic encryption
 - Discrete Gaussian DP in the encoded integer domain with trust-budget gating
-- Cryptographic components (ring-LWE encryption and zero-knowledge input validation) specified as blueprints for future work.
+- Cryptographic components (Ring-LWE encryption and zero-knowledge input validation) specified as blueprints for future work.
 
+Note: The complete code will be available upon the paper’s publication, anticipated in November 2025.
 
 ## Environment Setup
 
