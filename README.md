@@ -100,3 +100,24 @@ python main.py --epsilon 10000 --rounds XXX --evaluate-mia
 All outputs are saved to the `logs/` directory:
 - Training metrics: `logs/pcufl_run_[timestamp].json`
 - Visualization plots: `logs/pcufl_metrics_calibrated.png`
+
+## Citation
+
+If you use this work, please cite:
+
+S. H. Shah and M. Borowczak, "Discrete Gaussian Integer Aggregation and Trust-Budget Gating for Federated Learning in IoT-Enabled CPS," *2025 Cyber Awareness and Research Symposium (CARS)*, Grand Forks, ND, USA, 2025, pp. 1-6, doi: [10.1109/CARS67163.2025.11337755](https://doi.org/10.1109/CARS67163.2025.11337755)
+
+<details>
+<summary>BibTeX</summary>
+```bibtex
+@inproceedings{shah2025discrete,
+  title={Discrete Gaussian Integer Aggregation and Trust-Budget Gating for Federated Learning in IoT-Enabled CPS},
+  author={Shah, S. H. and Borowczak, M.},
+  booktitle={2025 Cyber Awareness and Research Symposium (CARS)},
+  pages={1--6},
+  year={2025},
+  organization={IEEE},
+  doi={10.1109/CARS67163.2025.11337755}
+}
+```
+</details>
