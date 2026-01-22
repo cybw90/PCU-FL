@@ -110,14 +110,15 @@ S. H. Shah and M. Borowczak, "Discrete Gaussian Integer Aggregation and Trust-Bu
 <details>
 <summary>BibTeX</summary>
 
-@inproceedings{shah2025discrete,
-  title={Discrete Gaussian Integer Aggregation and Trust-Budget Gating for Federated Learning in IoT-Enabled CPS},
-  author={Shah, S. H. and Borowczak, M.},
-  booktitle={2025 Cyber Awareness and Research Symposium (CARS)},
-  pages={1--6},
+@INPROCEEDINGS{11337755,
+  author={Shah, Sajjad H. and Borowczak, Mike},
+  booktitle={2025 Cyber Awareness and Research Symposium (CARS)}, 
+  title={Discrete Gaussian Integer Aggregation and Trust-Budget Gating for Federated Learning in IoT-Enabled CPS}, 
   year={2025},
-  organization={IEEE},
-  doi={10.1109/CARS67163.2025.11337755}
-}
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Privacy;Differential privacy;Sensitivity;Quantization (signal);Accuracy;Federated learning;Gaussian noise;Robustness;Encryption;Servers;Federated Learning;Secure Aggregation;Differential Privacy;Zero-Knowledge Proof;FP8 Quantization;Byzantine Robustness},
+  doi={10.1109/CARS67163.2025.11337755}}
 
 </details>
