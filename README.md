@@ -109,7 +109,7 @@ S. H. Shah and M. Borowczak, "Discrete Gaussian Integer Aggregation and Trust-Bu
 
 <details>
 <summary>BibTeX</summary>
-"bibtex
+
 @inproceedings{shah2025discrete,
   title={Discrete Gaussian Integer Aggregation and Trust-Budget Gating for Federated Learning in IoT-Enabled CPS},
   author={Shah, S. H. and Borowczak, M.},
@@ -119,5 +119,5 @@ S. H. Shah and M. Borowczak, "Discrete Gaussian Integer Aggregation and Trust-Bu
   organization={IEEE},
   doi={10.1109/CARS67163.2025.11337755}
 }
-"
+
 </details>
