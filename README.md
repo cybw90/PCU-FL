@@ -124,3 +124,6 @@ S. H. Shah and M. Borowczak, "Discrete Gaussian Integer Aggregation and Trust-Bu
   doi={10.1109/CARS67163.2025.11337755}}
 
 </details>
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
