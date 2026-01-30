@@ -103,6 +103,10 @@ All outputs are saved to the `logs/` directory:
 - Training metrics: `logs/pcufl_run_[timestamp].json`
 - Visualization plots: `logs/pcufl_metrics_calibrated.png`
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](License) file for details.
+
 ## Citation
 
 If you use this work, please cite:
@@ -124,6 +128,4 @@ S. H. Shah and M. Borowczak, "Discrete Gaussian Integer Aggregation and Trust-Bu
   doi={10.1109/CARS67163.2025.11337755}}
 
 </details>
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
