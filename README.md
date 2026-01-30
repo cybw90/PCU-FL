@@ -1,5 +1,7 @@
 # Paper Title:  Discrete Gaussian Integer Aggregation and Trust-Budget Gating for Federated Learning in IoT-Enabled CPS
 
+[![Paper](https://img.shields.io/badge/Paper-IEEE-blue)](https://ieeexplore.ieee.org/document/11337755)
+
 ## Overview
 
 PCU-FL is a federated learning pipeline for IoT-enabled cyber-physical systems (CPS) that combines discrete Gaussian integer aggregation with trust budget gating under encoded domain differential privacy (DP). 
