@@ -2,7 +2,7 @@
 
 > 🏆 **Best Paper Award — IEEE CARS 2025.**
 > 2025 Cyber Awareness and Research Symposium (CARS), Grand Forks, ND, USA.
-> [Read the paper on IEEE Xplore](https://ieeexplore.ieee.org/document/11337755).
+
 <p align="left">
   <img alt="Status" src="https://img.shields.io/badge/status-research%20artifact-blue">
   <a href="https://ieeexplore.ieee.org/document/11337755"><img alt="Best Paper Award" src="https://img.shields.io/badge/IEEE%20CARS%202025-Best%20Paper%20Award-FFB000"></a>
