@@ -2,7 +2,7 @@
 
 > 🏆 **Best Paper Award — IEEE CARS 2025.**
 > 2025 Cyber Awareness and Research Symposium (CARS), Grand Forks, ND, USA.
-> [Read the paper:](https://ieeexplore.ieee.org/document/11337755)
+
 > 
 <p align="left">
   <img alt="Status" src="https://img.shields.io/badge/status-research%20artifact-blue">
@@ -15,6 +15,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
 </p>
 
+> [Read the paper:](https://ieeexplore.ieee.org/document/11337755)
 ## Overview
 
 PCU-FL is a federated learning pipeline for IoT-enabled cyber-physical systems (CPS) that combines discrete Gaussian integer aggregation with trust budget gating under encoded domain differential privacy (DP). 
