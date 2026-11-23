@@ -1,6 +1,20 @@
 # Paper Title:  Discrete Gaussian Integer Aggregation and Trust-Budget Gating for Federated Learning in IoT-Enabled CPS
 
-[![Paper](https://img.shields.io/badge/Paper-IEEE-blue)](https://ieeexplore.ieee.org/document/11337755)
+> 🏆 **Best Paper Award — IEEE CARS 2025.**
+> 2025 Cyber Awareness and Research Symposium (CARS), Grand Forks, ND, USA.
+> [Read the paper on IEEE Xplore](https://ieeexplore.ieee.org/document/11337755).
+
+<p align="left">
+  <img alt="Status" src="https://img.shields.io/badge/status-research%20artifact-blue">
+  <a href="https://ieeexplore.ieee.org/document/11337755"><img alt="Venue" src="https://img.shields.io/badge/IEEE%20CARS-2025-00629B"></a>
+  <img alt="Best Paper Award" src="https://img.shields.io/badge/IEEE%20CARS%202025-Best%20Paper%20Award-FFB000">
+  <a href="https://doi.org/10.1109/CARS67163.2025.11337755"><img alt="DOI" src="https://img.shields.io/badge/DOI-10.1109%2FCARS67163.2025.11337755-blue"></a>
+  <img alt="Python" src="https://img.shields.io/badge/python-3.9%2B-3776AB">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-1.13%2B-EE4C2C">
+  <img alt="Differential Privacy" src="https://img.shields.io/badge/DP-Discrete%20Gaussian-6A5ACD">
+  <img alt="FP8" src="https://img.shields.io/badge/quantization-FP8%20(E4M3%2FE5M2)-orange">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
+</p>
 
 ## Overview
 
