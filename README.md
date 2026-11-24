@@ -27,7 +27,7 @@ Key features include:
 - Discrete Gaussian DP in the encoded integer domain with trust-budget gating
 - Cryptographic components (Ring-LWE encryption and zero-knowledge input validation) specified as blueprints for future work.
 
-Read the full paper: [IEEE Xplore](https://ieeexplore.ieee.org/document/11754329)
+Read the full paper: [IEEE Xplore](https://ieeexplore.ieee.org/document/11337755)
 
 ## Environment Setup
 
